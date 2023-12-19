@@ -1,4 +1,4 @@
-class EventManager {
+/*class EventManager {
   //propiedad estatica o de la clase
   static events = [];
   // # para definir propiedades privadas
@@ -24,4 +24,4 @@ const harryPotter2 = new EventManager({ name: "harry2", place: "showcase" });
 const harryPotter3 = new EventManager({ name: "harry3", place: "showcase" });
 const harryPotter4 = new EventManager({ name: "harry4", place: "showcase" });
 
-console.log(EventManager.events);
+console.log(EventManager.events);*/
